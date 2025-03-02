@@ -11,10 +11,8 @@
 ![src](./src/assets/htmlgithub.svg) 
 ![src](./src/assets/chakrauigithub.svg)
 ![src](./src/assets/javascriptgithub.svg)
-![src](./src/assets/githubgithub.svg)
 ![src](./src/assets/reactroutergithub.svg)
-![src](./src/assets/npmgithub.svg)
-![src](./src/assets/vscodegithub.svg)
+
 
 
 
